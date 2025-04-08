@@ -1,0 +1,1 @@
+This is an Android image compression app developed in Java. The app allows users to select an image from their phone's storage and compress it. The compression level can be adjusted from 100% to none, enabling users to optimize the image size while maintaining its quality.
